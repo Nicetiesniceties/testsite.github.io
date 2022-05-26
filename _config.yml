@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "https://nicetiesniceties.github.io/testsite.github.io/"
+baseurl: "/testsite.github.io"
 url: "https://nicetiesniceties.github.io/testsite.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
